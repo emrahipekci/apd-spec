@@ -33,7 +33,7 @@ Emrah Ipekci (2026)
 - **SSRN:** <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6487399>
 - **arXiv:** Submission pending (cs.MA)
 
-57 pages, 70 references, seven formal specifications, complete reference configuration with evaluation metrics.
+Seven formal specifications, complete reference configuration with evaluation metrics.
 
 ## Protocol Stack Position
 
@@ -88,7 +88,7 @@ Open an issue to start a discussion, or reach out directly.
 
 ## About the Author
 
-**Emrah Ipekci** — Chartered Civil Engineer (CEng), MSc, MBA, PMP. 20+ years directing combined-cycle gas turbine (CCGT) megaprojects across Turkey, Uzbekistan, and Qatar. The practitioner who needed the protocol that multi-agent systems research had not yet built.
+**Emrah Ipekci** — Chartered Civil Engineer (CEng), MSc, MBA, PMP. 20+ years directing combined-cycle gas turbine (CCGT) megaprojects across Turkey, Russia and Uzbekistan. The practitioner who needed the protocol that multi-agent systems research had not yet built.
 
 - **ORCID:** [0009-0008-0328-8245](https://orcid.org/0009-0008-0328-8245)
 - **SSRN:** [Emrah Ipekci](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7610498)
