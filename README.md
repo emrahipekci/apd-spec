@@ -22,7 +22,7 @@ The protocol is **domain-agnostic by design, domain-specific by configuration**.
 
 ## Current Status
 
-APD is a **design-only specification** as of April 2026. Zero implementation, zero empirical validation. The specification is complete and published. Implementation and validation are next.
+APD is a **design-only specification** as of April 2026. The specification is complete and published. Implementation and validation are next.
 
 ## Paper
 
